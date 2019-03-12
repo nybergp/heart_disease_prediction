@@ -1,4 +1,4 @@
-# heart_disease_prediction
+# Predicting heart disease in a small dataset
 A short exploration of the Heart Disease dataset published by UCI using Numpy, Pandas and sklearn.
 
 The purpose of this project is to showcase basic Data Science skills, including: 
